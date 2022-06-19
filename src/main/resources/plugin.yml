@@ -1,0 +1,7 @@
+name: MCSAT
+version: '${project.version}'
+main: me.krymz0n.mcsat.Main
+api-version: 1.16
+authors: [ KRYMZ0N ]
+description: Minecraft Server Attachment Tool
+website: www.3b3t.me
